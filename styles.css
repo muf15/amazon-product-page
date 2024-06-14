@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: space-around;
+}
+.title {
+    font-weight: lighter;
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+    width: 400px;
+    height: 500px;
+}
+
+a
+{
+    color: #007185;
+}
+
+.path
+{
+    color:#565959;
+}
+
+.book-cover
+{
+    padding: 2px 10px;
+}
+
+.book-overwiew
+{
+    padding: 5px 10px; 
+    width: 540px;
+}
